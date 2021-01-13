@@ -1,13 +1,3 @@
-const inputValue = {
-  hired: {
-    be: {
-      to: {
-        deserve: "I",
-      },
-    },
-  },
-};
-
 const getAllKeys = (obj) => {
   const allKeys = [];
 

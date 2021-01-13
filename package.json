@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node src/MyGo.js",
+    "start": "node src/index",
     "test": "jest --coverage"
   },
   "dependencies": {},
