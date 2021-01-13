@@ -1,0 +1,15 @@
+{
+  "name": "MyGo_Test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/MyGo.js",
+    "test": "jest --coverage"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "jest": "^26.6.3"
+  }
+}
